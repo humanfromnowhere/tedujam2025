@@ -1,0 +1,4 @@
+repository "light queen/light queen@18968248798269@cloud"
+  path "/"
+    br "/main"
+    co "/main"
